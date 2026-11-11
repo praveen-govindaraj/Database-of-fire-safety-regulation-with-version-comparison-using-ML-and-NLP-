@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regulation Diff — Fire Safety Standards
 
 Clause-level comparison of fire safety regulations, across editions **and across
@@ -574,3 +575,7 @@ Provided for research, verification, and academic use. The documents it fetches
 remain under their publishers' terms: UK and Irish government guidance is
 published under the Open Government Licence or its Irish equivalent; British
 Standards are copyright BSI and are not redistributed here.
+=======
+# Database-of-fire-safety-regulation-with-version-comparison-using-ML-and-NLP-
+An AI-powered semantic comparison system for fire safety regulatory documents.
+>>>>>>> 3b7bec2549ee3bfa73431e813a6c5076986860ea
